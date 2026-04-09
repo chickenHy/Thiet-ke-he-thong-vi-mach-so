@@ -12,6 +12,7 @@
 
 `timescale 1s/1ms
 module LightTraffic_fsm (
+    
     //------- Clock -------//
     input wire clk, // Xung nhip cho he thong, tan so 1Hz
 
